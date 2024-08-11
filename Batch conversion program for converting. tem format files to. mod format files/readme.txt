@@ -1,0 +1,10 @@
+由老师提供的WriteAarhusInvInput.m文件修改，实现批量.tem文件转.mod文件，
+推荐使用时把matlab文件拷到存放.tem文件夹中，方便后期反演操作
+使用方法：运行AutoWriteAarhusInvInput.m文件
+file_path：存放.tem文件夹路径
+N_iters：反演迭代次数
+生成的mode文件存放在AutoWriteAarhusInvInput.m程序所在的文件夹中，
+打开mode文件，文件第一行为对应的.tem文件名
+---------------------
+作者：李作滔
+---------------------
