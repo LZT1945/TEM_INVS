@@ -1,0 +1,10 @@
+由老师提供的WriteAarhusInvInput.m文件修改，实现合成多个.tem文件为一个.mod文件，
+推荐使用时把matlab文件拷到存放.tem文件夹中，方便后期反演操作
+使用方法：运行WriteAarhusInvInput.m文件
+file_path：存放.tem文件夹路径
+N_iters：反演迭代次数，最好十次及以上（默认10次）
+生成的mode文件存放在WriteAarhusInvInput.m程序所在的文件夹中，
+打开mode文件，表头为对应的.tem文件名
+---------------------
+作者：李作滔
+---------------------
